@@ -6,6 +6,9 @@
   <title>Pranav Karnik | Staff Backend Engineer</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
+
+<script src="script.js"></script>
+  
 <body>
 
 <header class="hero">
@@ -35,15 +38,24 @@
 <section>
   <h2>About Me</h2>
   <p>
-    I am a Staff Backend Engineer with 12+ years of experience building
+    I am a Staff Backend Engineer with 12+ years of experience designing and owning
     transaction-heavy, distributed backend systems using Java and Spring Boot.
-    I focus on system design, reliability, scalability, and owning services
-    end-to-end in production.
   </p>
   <p>
-    I work closely with product, platform, and infrastructure teams to
-    design systems that are resilient, observable, and maintainable at scale.
+    My work focuses on system design, reliability, scalability, and long-term
+    maintainability of production systems operating at scale.
   </p>
+</section>
+
+<section>
+  <h2>What I Build</h2>
+  <ul>
+    <li>Transaction-heavy microservices with clear consistency boundaries</li>
+    <li>Event-driven systems using Kafka for scalability and decoupling</li>
+    <li>Resilient APIs with idempotency, retries, and failure recovery</li>
+    <li>Cloud-native services designed for observability and operability</li>
+    <li>Backend systems owned end-to-end in live production environments</li>
+  </ul>
 </section>
 
 <section>
@@ -62,19 +74,42 @@
 </section>
 
 <section>
-  <h2>System Design & Architecture</h2>
+  <h2>System Design Snapshots</h2>
+
+  <details>
+    <summary>Payment Processing (Saga-based Workflow)</summary>
+    <ul>
+      <li>Avoided distributed transactions and 2PC</li>
+      <li>Used local transactions with compensating actions</li>
+      <li>Designed idempotent APIs to safely handle retries</li>
+      <li>Kafka used for asynchronous recovery and state propagation</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>High-throughput Event Processing</summary>
+    <ul>
+      <li>Kafka-based ingestion for decoupled producers and consumers</li>
+      <li>DynamoDB for scalable state management</li>
+      <li>At-least-once delivery with deduplication strategies</li>
+      <li>Operational dashboards and alerts for failure visibility</li>
+    </ul>
+  </details>
+</section>
+
+<section>
+  <h2>How I Think as an Engineer</h2>
   <ul>
-    <li>Distributed microservices with strong consistency guarantees</li>
-    <li>Event-driven architectures for scalability and decoupling</li>
-    <li>Resilient APIs with retries, idempotency, and graceful degradation</li>
-    <li>High observability: logging, metrics, and alerting</li>
-    <li>End-to-end ownership of services in production</li>
+    <li>Prefer simple, debuggable systems over clever abstractions</li>
+    <li>Design for failure — retries, fallbacks, and recovery are first-class</li>
+    <li>Avoid tight coupling and distributed transactions</li>
+    <li>Optimize for operability, not just correctness</li>
+    <li>Believe clean code and tests reduce long-term system cost</li>
   </ul>
 </section>
 
 <section>
   <h2>Technical Skills</h2>
-
   <div class="skills">
     <span>Java 17</span>
     <span>Spring Boot</span>
@@ -87,6 +122,7 @@
     <span>AWS</span>
     <span>REST APIs</span>
     <span>System Design</span>
+    <span>Distributed Systems</span>
   </div>
 </section>
 
