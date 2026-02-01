@@ -1,150 +1,186 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Pranav Karnik | Staff Backend Engineer</title>
-  <link rel="stylesheet" href="styles.css" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /
+>
+<title>Pranav Karnik | Staff Backend Engineer</title>
+<link rel="stylesheet" href="styles.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?
+family=Inter:wght@300;400;500;600;700&family=Poppins:wght@600;700&displ
+ay=swap" rel="stylesheet">
 </head>
-
-<script src="script.js"></script>
-  
 <body>
-
+<nav class="navbar">
+<div class="nav-container">
+<a href="index.html" class="nav-logo">PK</a>
+<button class="hamburger" id="hamburger" aria-label="Toggle menu">
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"></span>
+</button>
+<ul class="nav-menu" id="navMenu">
+<li><a href="index.html" class="active">Home</a></li>
+<li><a href="experience.html">Work Experience</a></li>
+<li><a href="certifications.html">Certifications</a></li>
+<li><a href="languages.html">Languages & Skills</a></li>
+<li><a href="opportunities.html">Opportunities</a></li>
+</ul>
+</div>
+</nav>
 <header class="hero">
-  <div class="hero-content">
-    <img src="IMG_8916.jpeg" alt="Pranav Karnik" class="profile-pic" />
-
-    <h1>Pranav Nitin Karnik</h1>
-    <p class="role">Staff Backend Engineer</p>
-    <p class="tagline">
-      Designing reliable, scalable backend systems with strong ownership
-      of architecture, performance, and production stability.
-    </p>
-
-    <p class="location">
-      Pune, India · Open to relocation (Spain / EU) · Remote-friendly
-    </p>
-
-    <div class="links">
-      <a href="mailto:pranavkarnik6@gmail.com">Email</a>
-      <a href="https://www.linkedin.com/in/pranavkarnik/" target="_blank">LinkedIn</a>
-    </div>
-  </div>
+<div class="hero-content">
+<div class="profile-section">
+<img src="https://res.cloudinary.com/dsrkqlk0v/image/upload/v1769954906/IMG_8916_c2qybw.jpg" alt="Pranav Karnik" class="profile-
+pic" />
+<div class="profile-info">
+<h1>Pranav Nitin Karnik</h1>
+<p class="role">Staff Backend Engineer</p>
+<p class="tagline">
+Designing reliable, scalable backend systems with strong
+ownership
+of architecture, performance, and production stability
+</p>
+<p class="location">
+Pune, India · Open to relocation (EU) · Remote-friendly
+</p>
+<div class="links">
+<a href="mailto:pranavkarnik6@gmail.com" class="btn-primary">
+<svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2">
+<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1
+0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+<polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+Email
+</a>
+<a href="https://www.linkedin.com/in/pranavkarnik/"
+target="_blank" class="btn-secondary">
+<svg width="16" height="16" viewBox="0 0 24 24"
+fill="currentColor">
+<path d="M20.447
+20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136
+1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85
+3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144
+0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925
+2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782
+13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0
+1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24
+22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+</svg>
+LinkedIn
+</a>
+</div>
+</div>
+</div>
+</div>
 </header>
-
 <main>
-
-<section>
-  <h2>About Me</h2>
-  <p>
-    I am a Staff Backend Engineer with 12+ years of experience designing and owning
-    transaction-heavy, distributed backend systems using Java and Spring Boot.
-  </p>
-  <p>
-    My work focuses on system design, reliability, scalability, and long-term
-    maintainability of production systems operating at scale.
-  </p>
+<section class="section-light">
+<div class="container">
+<h2>About Me</h2>
+<p class="lead">
+I am a Staff Backend Engineer with <strong>12+ years of
+experience</strong> designing and owning
+transaction-heavy, distributed backend systems using Java and
+Spring Boot.
+</p>
+<p>
+My work focuses on system design, reliability, scalability, and
+long-term
+maintainability of production systems operating at scale.
+</p>
+</div>
 </section>
-
-<section>
-  <h2>What I Build</h2>
-  <ul>
-    <li>Transaction-heavy microservices with clear consistency boundaries</li>
-    <li>Event-driven systems using Kafka for scalability and decoupling</li>
-    <li>Resilient APIs with idempotency, retries, and failure recovery</li>
-    <li>Cloud-native services designed for observability and operability</li>
-    <li>Backend systems owned end-to-end in live production environments</li>
-  </ul>
+<section class="section-dark">
+<div class="container">
+<h2>What I Build</h2>
+<div class="grid">
+<div class="card">
+<div class="card-icon"> </div>
+<h3>Transaction-Heavy Systems</h3>
+<p>Microservices with clear consistency boundaries and ACID
+guarantees</p>
+</div>
+<div class="card">
+<div class="card-icon"> </div>
+<h3>Event-Driven Architecture</h3>
+<p>Scalable systems using Kafka for decoupling and async
+processing</p>
+</div>
+<div class="card">
+<div class="card-icon"> </div>
+<h3>Resilient APIs</h3>
+<p>Built with idempotency, retries, and failure recovery
+strategies</p>
+</div>
+<div class="card">
+<div class="card-icon"> </div>
+<h3>Cloud-Native Services</h3>
+<p>Designed for observability, operability, and production
+excellence</p>
+</div>
+</div>
+</div>
 </section>
-
-<section>
-  <h2>Current Role</h2>
-  <h3>Deloitte USI — Senior / Staff Backend Engineer</h3>
-  <p class="time">2022 – Present</p>
-
-  <ul>
-    <li>Owned and designed backend microservices using Java Spring Boot</li>
-    <li>Defined transaction boundaries, idempotency, and failure-handling strategies</li>
-    <li>Built event-driven systems using Kafka and DynamoDB</li>
-    <li>Reduced AWS Lambda cold-start latency by ~55%</li>
-    <li>Handled production incidents and long-term reliability improvements</li>
-    <li>Collaborated with US-based teams on system design and delivery</li>
-  </ul>
+<section class="section-light">
+<div class="container">
+<h2>Engineering Philosophy</h2>
+<ul class="philosophy-list">
+<li>
+<span class="bullet">→</span>
+Prefer simple, debuggable systems over clever abstractions
+</li>
+<li>
+<span class="bullet">→</span>
+Design for failure — retries, fallbacks, and recovery are
+first-class
+</li>
+<li>
+<span class="bullet">→</span>
+Avoid tight coupling and distributed transactions
+</li>
+<li>
+<span class="bullet">→</span>
+Optimize for operability, not just correctness
+</li>
+<li>
+</li>
+</ul>
+</div>
 </section>
-
-<section>
-  <h2>System Design Snapshots</h2>
-
-  <details>
-    <summary>Payment Processing (Saga-based Workflow)</summary>
-    <ul>
-      <li>Avoided distributed transactions and 2PC</li>
-      <li>Used local transactions with compensating actions</li>
-      <li>Designed idempotent APIs to safely handle retries</li>
-      <li>Kafka used for asynchronous recovery and state propagation</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary>High-throughput Event Processing</summary>
-    <ul>
-      <li>Kafka-based ingestion for decoupled producers and consumers</li>
-      <li>DynamoDB for scalable state management</li>
-      <li>At-least-once delivery with deduplication strategies</li>
-      <li>Operational dashboards and alerts for failure visibility</li>
-    </ul>
-  </details>
+<span class="bullet">→</span>
+Believe clean code and tests reduce long-term system cost
+<section class="section-dark">
+<div class="container">
+<h2>Current Focus</h2>
+<div class="current-role">
+<h3>Deloitte USI — Senior / Staff Backend Engineer</h3>
+<p class="time">2022 – Present</p>
+<ul class="achievements">
+<li>Owned and designed backend microservices using Java Spring
+Boot</li>
+<li>Defined transaction boundaries, idempotency, and failure-
+handling strategies</li>
+<li>Built event-driven systems using Kafka and DynamoDB</li>
+<li>Reduced AWS Lambda cold-start latency by ~55%</li>
+<li>Handled production incidents and long-term reliability
+improvements</li>
+<li>Collaborated with US-based teams on system design and
+delivery</li>
+</ul>
+</div>
+</div>
 </section>
-
-<section>
-  <h2>How I Think as an Engineer</h2>
-  <ul>
-    <li>Prefer simple, debuggable systems over clever abstractions</li>
-    <li>Design for failure — retries, fallbacks, and recovery are first-class</li>
-    <li>Avoid tight coupling and distributed transactions</li>
-    <li>Optimize for operability, not just correctness</li>
-    <li>Believe clean code and tests reduce long-term system cost</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Technical Skills</h2>
-  <div class="skills">
-    <span>Java 17</span>
-    <span>Spring Boot</span>
-    <span>Microservices</span>
-    <span>Kafka</span>
-
-    <span>Node.js</span>
-    <span>TypeScript</span>
-    <span>NestJS</span>
-
-    <span>PostgreSQL</span>
-    <span>MySQL</span>
-    <span>DynamoDB</span>
-    <span>Redis</span>
-
-    <span>AWS</span>
-    <span>REST APIs</span>
-    <span>Distributed Systems</span>
-    <span>System Design</span>
-  </div>
-</section>
-
-<section>
-  <h2>Certifications & Recognition</h2>
-  <ul>
-    <li>AWS Certified Cloud Practitioner (2024)</li>
-    <li>Multiple Spot & Applause Awards at Deloitte for delivery excellence</li>
-  </ul>
-</section>
-
 </main>
-
 <footer>
-  <p>© 2026 Pranav Karnik · Staff Backend Engineer</p>
+<div class="container">
+<p>© 2026 Pranav Karnik · Staff Backend Engineer</p>
+<p class="footer-subtitle">Building reliable systems at scale</p>
+</div>
 </footer>
-
+<script src="script.js"></script>
 </body>
 </html>
