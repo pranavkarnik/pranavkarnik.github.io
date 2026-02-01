@@ -1,0 +1,18 @@
+<!-- Navigation Bar - Include this in all pages -->
+<nav class="navbar">
+  <div class="nav-container">
+    <a href="index.html" class="nav-logo">PK</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+      <span class="line"></span>
+      <span class="line"></span>
+      <span class="line"></span>
+    </button>
+    <ul class="nav-menu" id="navMenu">
+      <li><a href="index.html" id="nav-home">Home</a></li>
+      <li><a href="experience.html" id="nav-experience">Work Experience</a></li>
+      <li><a href="certifications.html" id="nav-certifications">Certifications</a></li>
+      <li><a href="languages.html" id="nav-languages">Languages & Skills</a></li>
+      <li><a href="opportunities.html" id="nav-opportunities">Opportunities</a></li>
+    </ul>
+  </div>
+</nav>
