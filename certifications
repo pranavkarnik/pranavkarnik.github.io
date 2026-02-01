@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /
+>
+<title>Certifications | Pranav Karnik</title>
+<link rel="stylesheet" href="styles.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?
+family=Inter:wght@300;400;500;600;700&family=Poppins:wght@600;700&displ
+ay=swap" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar">
+<div class="nav-container">
+<a href="index.html" class="nav-logo">PK</a>
+<button class="hamburger" id="hamburger" aria-label="Toggle menu">
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"></span>
+</button>
+<ul class="nav-menu" id="navMenu">
+<li><a href="index.html">Home</a></li>
+<li><a href="experience.html">Work Experience</a></li>
+<li><a href="certifications.html" class="active">Certifications</
+a></li>
+<li><a href="languages.html">Languages & Skills</a></li>
+<li><a href="opportunities.html">Opportunities</a></li>
+</ul>
+</div>
+</nav>
+<div class="page-header">
+<div class="container">
+<h1>Certifications & Recognition</h1>
+<p class="subtitle">Professional credentials and achievements</p>
+</div>
+</div>
+<main>
+<section class="section-light">
+<div class="container">
+<div class="cert-section">
+<h2> Professional Certifications</h2>
+<div class="cert-card featured">
+<div class="cert-header">
+<div class="cert-icon">
+<img src="https://res.cloudinary.com/dsrkqlk0v/image/upload/v1769955115/IMG_2856_sljvae.png" height="75" width="75"/>
+</div>
+<div>
+<h3>AWS Certified Cloud Practitioner</h3>
+<p class="cert-issuer">Amazon Web Services (AWS)</p>
+</div>
+</div>
+<div class="cert-details">
+<div class="cert-meta">
+<span class="cert-badge">✓ Verified</span>
+<span class="cert-year">2024</span>
+</div>
+<p class="cert-description">
+Foundational understanding of AWS Cloud services,
+architecture, security,
+and pricing. Demonstrates knowledge of cloud computing
+concepts and AWS
+infrastructure for building scalable and reliable cloud
+solutions.
+</p>
+<div class="cert-skills">
+<span class="skill-tag">AWS Services</span>
+<span class="skill-tag">Cloud Architecture</span>
+<span class="skill-tag">Cloud Security</span>
+<span class="skill-tag">Cost Optimization</span>
+</div>
+<div style="margin-top: 1rem;">
+<a href="https://www.credly.com/badges/dc76d791-8003-4bef-
+b8b0-d8bb9b824e85/linked_in_profile" target="_blank" class="btn-
+primary">
+<svg width="16" height="16" viewBox="0 0 24 24"
+fill="none" stroke="currentColor" stroke-width="2">
+<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0
+0-7.07-7.07l-1.72 1.71"></path>
+<path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07
+7.07l1.71-1.71"></path>
+</svg>
+View Credential
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="cert-section">
+<h2> Professional Recognition & Awards</h2>
+<h2> Professional Recognition & Awards</h2>
+<div class="awards-grid">
+<div class="award-card">
+<div class="award-icon"> </div>
+<h3>Spot Awards</h3>
+<p class="award-company">Deloitte USI</p>
+<p class="award-description">
+Received multiple Spot Awards for exceptional delivery,
+technical excellence,
+and going above and beyond in critical project milestones.
+</p>
+<div class="award-meta">
+<span class="award-badge">Multiple recognitions</span>
+</div>
+</div>
+<div class="award-card">
+<div class="award-icon"> </div>
+<h3>Applause Awards</h3>
+<p class="award-company">Deloitte USI</p>
+<p class="award-description">
+Recognized with Applause Awards for outstanding
+contributions to team success,
+problem-solving abilities, and consistent high-quality
+deliverables.
+</p>
+<div class="award-meta">
+<span class="award-badge">Team Excellence</span>
+</div>
+</div>
+<div class="award-card">
+<div class="award-icon"> </div>
+<h3>Technical Leadership</h3>
+<p class="award-company">Across Organizations</p>
+<p class="award-description">
+Consistently recognized for technical leadership, system
+design expertise,
+and mentoring junior engineers throughout 12+ years of
+professional experience.
+</p>
+<div class="award-meta">
+<span class="award-badge">Leadership</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cert-section">
+<h2> Continuous Learning</h2>
+<div class="learning-card">
+<p>
+Committed to staying current with industry trends, best
+practices, and emerging technologies
+in distributed systems, cloud computing, and backend
+engineering.
+</p>
+<div class="learning-areas">
+<h4>Current Focus Areas:</h4>
+<ul class="learning-list">
+<li>Advanced AWS services and architecture patterns</li>
+<li>Event-driven architecture and stream processing</li>
+<li>System design and scalability patterns</li>
+<li>Microservices resilience and observability</li>
+<li>Cloud-native development practices</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="cert-section">
+<h2> Future Certifications</h2>
+<div class="future-certs">
+<div class="future-cert-item">
+<h4>AWS Certified Solutions Architect – Associate</h4>
+<p>Planned for 2026 to deepen AWS architecture expertise</p>
+</div>
+<!-- <div class="future-cert-item">
+<h4>Certified Kubernetes Administrator (CKA)</h4>
+<p>To enhance container orchestration and cloud-native
+skills</p>
+</div> -->
+</div>
+</div>
+</div>
+</section>
+</main>
+</main>
+<footer>
+<div class="container">
+<p>© 2026 Pranav Karnik · Staff Backend Engineer</p>
+<p class="footer-subtitle">Building reliable systems at scale</p>
+</div>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
