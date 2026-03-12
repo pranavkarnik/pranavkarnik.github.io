@@ -1102,7 +1102,7 @@ section {
 
 .opportunity-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 2rem;
   margin-bottom: 3rem;
 }
@@ -1126,16 +1126,51 @@ section {
   background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
 }
 
+.opp-card-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-bottom: 0.85rem;
+}
+
+.opp-card-heading h2 {
+  font-size: 1.9rem;
+  line-height: 1.12;
+  margin-bottom: 0;
+}
+
 .opp-icon {
-  font-size: 3rem;
-  margin-bottom: 1rem;
+  font-size: 2.8rem;
+  line-height: 1;
+  flex-shrink: 0;
 }
 
 .opp-highlight {
   color: var(--primary-color);
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
+  line-height: 1.45;
   margin-bottom: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .opportunity-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .opp-card-heading h2 {
+    font-size: 1.55rem;
+  }
+
+  .opp-icon {
+    font-size: 2.3rem;
+  }
+
+  .opp-highlight {
+    font-size: 1.05rem;
+  }
 }
 
 .opp-details h4 {
