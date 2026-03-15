@@ -1,0 +1,161 @@
+{
+  "header": {
+    "title": "Open to New Opportunities",
+    "subtitle": "Open to India and EU opportunities across on-site, hybrid, and remote backend roles",
+    "theme": "gradient"
+  },
+  "intro": "I'm actively seeking Staff Backend Engineer or Senior Backend Engineer roles with companies that value technical excellence, backend ownership, and production reliability across both India and the European tech ecosystem.",
+  "cards": [
+    {
+      "icon": "🇮🇳",
+      "title": "India On-Site Opportunities",
+      "highlight": "Open to on-site roles in Ahmedabad, Gandhinagar, and Vadodara",
+      "heading": "Preferred Locations:",
+      "items": [
+        "Ahmedabad - Product and enterprise engineering roles",
+        "Gandhinagar - Technology and innovation hubs",
+        "Vadodara - On-site engineering opportunities"
+      ],
+      "badgeTitle": "✓ India On-Site Preferred",
+      "badgeText": "Open to relocating within India for the right backend engineering opportunity",
+      "featured": true
+    },
+    {
+      "icon": "🇪🇺",
+      "title": "European Union Opportunities",
+      "highlight": "Also open to EU roles with relocation or remote options",
+      "heading": "Preferred EU Locations:",
+      "items": [
+        "Spain - Barcelona and Madrid",
+        "Germany - Berlin, Munich, and Frankfurt",
+        "Netherlands - Amsterdam",
+        "Switzerland - Zurich and Geneva",
+        "Austria - Vienna",
+        "Sweden - Stockholm",
+        "Poland - Warsaw and Krakow",
+        "Czech Republic - Prague",
+        "Denmark - Copenhagen"
+      ],
+      "badgeTitle": "✓ EU Roles Welcome",
+      "badgeText": "Open to visa sponsorship, relocation support, or remote-first roles with EU-based teams"
+    },
+    {
+      "icon": "🏠",
+      "title": "Remote Roles in India",
+      "highlight": "Open to remote-only backend roles based in India",
+      "heading": "Remote Work Preferences:",
+      "items": [
+        "Fully remote roles with India-based companies",
+        "Remote-first organizations with strong engineering culture",
+        "Teams that value ownership, system design, and async collaboration",
+        "Roles focused on backend platforms, microservices, and distributed systems"
+      ],
+      "note": "Prefer backend-heavy remote roles with long-term ownership and delivery responsibility"
+    },
+    {
+      "icon": "🏢",
+      "title": "Work Model Preferences",
+      "highlight": "Flexible across on-site, hybrid, and remote models in India and Europe",
+      "heading": "Work Model Preferences:",
+      "items": [
+        "On-site - Preferred in Ahmedabad, Gandhinagar, and Vadodara",
+        "EU Relocation - Open to roles across selected EU tech hubs with sponsorship",
+        "Hybrid - Open to balanced in-office collaboration",
+        "Remote - Open to fully remote roles in India and remote-first roles with EU teams"
+      ],
+      "note": "Available for backend engineering opportunities that need strong production ownership and distributed systems experience"
+    }
+  ],
+  "lookingFor": {
+    "title": "What I'm Looking For",
+    "items": [
+      {
+        "title": "🎯 Role Type",
+        "points": [
+          "Senior Backend Engineer",
+          "Staff Backend Engineer",
+          "Tech Lead - Backend",
+          "Principal Engineer (Backend)"
+        ]
+      },
+      {
+        "title": "🏗️ Technical Focus",
+        "points": [
+          "Distributed systems at scale",
+          "Microservices architecture",
+          "Event-driven systems",
+          "Cloud-native backend development on AWS"
+        ]
+      },
+      {
+        "title": "🌟 Company Culture",
+        "points": [
+          "Engineering excellence and ownership",
+          "Strong technical leadership",
+          "Work-life balance",
+          "Continuous learning culture"
+        ]
+      },
+      {
+        "title": "💼 Ideal Company",
+        "points": [
+          "Product-focused tech companies",
+          "Enterprise engineering organizations",
+          "Scale-ups with strong backend challenges",
+          "Fintech, SaaS, platform, and data-intensive domains"
+        ]
+      }
+    ]
+  },
+  "value": {
+    "title": "What I Bring to the Table",
+    "items": [
+      {
+        "icon": "⚡",
+        "title": "12+ Years Experience",
+        "description": "Deep experience across backend systems, distributed architectures, and production ownership"
+      },
+      {
+        "icon": "🔧",
+        "title": "System Design Expertise",
+        "description": "Proven track record designing scalable backend platforms, APIs, and event-driven systems"
+      },
+      {
+        "icon": "🚀",
+        "title": "Delivery Focus",
+        "description": "End-to-end ownership from architecture and implementation to production operations"
+      },
+      {
+        "icon": "🤝",
+        "title": "Collaboration Skills",
+        "description": "Experience collaborating across distributed teams, stakeholders, and delivery functions"
+      }
+    ]
+  },
+  "locationFlexibility": {
+    "title": "Location Flexibility",
+    "intro": "I am open to on-site opportunities in Ahmedabad, Gandhinagar, and Vadodara, and I am also available for remote-only backend roles across India and open to EU opportunities with relocation or remote collaboration.",
+    "items": [
+      {
+        "title": "Preferred Cities",
+        "text": "✓ Ahmedabad, Gandhinagar, and Vadodara"
+      },
+      {
+        "title": "EU Locations",
+        "text": "✓ Open to major EU tech hubs including Spain, Germany, the Netherlands, and Switzerland"
+      },
+      {
+        "title": "Work Modes",
+        "text": "✓ On-site, hybrid, relocation, or remote depending on role fit"
+      },
+      {
+        "title": "Language Skills",
+        "text": "✓ Fluent English, Hindi, Marathi, and working Gujarati"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "body": "If you have a backend engineering opportunity in India or Europe that matches my profile, I'd be glad to connect."
+  }
+}

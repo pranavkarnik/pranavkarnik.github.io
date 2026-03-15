@@ -1,0 +1,233 @@
+{
+  "header": {
+    "title": "Languages & Technical Skills",
+    "subtitle": "Comprehensive technical expertise across the stack"
+  },
+  "spokenLanguages": {
+    "title": "🗣️ Spoken Languages",
+    "items": [
+      {
+        "flag": "🇮🇳",
+        "name": "English",
+        "width": "100%",
+        "level": "Fluent - Professional working proficiency"
+      },
+      {
+        "flag": "🇮🇳",
+        "name": "Hindi",
+        "width": "100%",
+        "level": "Native speaker"
+      },
+      {
+        "flag": "🇮🇳",
+        "name": "Marathi",
+        "width": "100%",
+        "level": "Native speaker"
+      },
+      {
+        "flag": "🇮🇳",
+        "name": "Gujarati",
+        "width": "100%",
+        "level": "Working proficiency"
+      }
+    ]
+  },
+  "programmingLanguages": {
+    "title": "💻 Programming Languages",
+    "items": [
+      {
+        "name": "TypeScript",
+        "level": "Advanced",
+        "version": "ES6+",
+        "className": "advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced",
+        "version": "1.25",
+        "className": "advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced",
+        "version": "Java 8, 11, 17",
+        "className": "advanced"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Advanced",
+        "version": "Node.js",
+        "className": "advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced",
+        "version": "PostgreSQL, MySQL",
+        "className": "intermediate"
+      }
+    ]
+  },
+  "frameworkSections": [
+    {
+      "title": "Backend Frameworks",
+      "items": [
+        {
+          "name": "NestJS",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "Express.js",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "Spring Boot",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "Spring Framework",
+          "level": "Advanced",
+          "className": "advanced"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "items": [
+        {
+          "name": "PostgreSQL",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "MySQL",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "DynamoDB",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "Redis",
+          "level": "Advanced",
+          "className": "advanced"
+        }
+      ]
+    },
+    {
+      "title": "Message Queues & Streaming",
+      "items": [
+        {
+          "name": "Apache Kafka",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "RabbitMQ",
+          "level": "Intermediate",
+          "className": "intermediate"
+        },
+        {
+          "name": "AWS SQS/SNS",
+          "level": "Intermediate",
+          "className": "intermediate"
+        }
+      ]
+    },
+    {
+      "title": "Cloud & DevOps",
+      "items": [
+        {
+          "name": "AWS",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "Docker",
+          "level": "Advanced",
+          "className": "advanced"
+        },
+        {
+          "name": "Kubernetes",
+          "level": "Intermediate",
+          "className": "intermediate"
+        },
+        {
+          "name": "CI/CD",
+          "level": "Intermediate",
+          "className": "intermediate"
+        }
+      ]
+    }
+  ],
+  "architecture": {
+    "title": "🏗️ Architecture & Design",
+    "items": [
+      {
+        "title": "Microservices Architecture",
+        "description": "Service decomposition, API design, inter-service communication"
+      },
+      {
+        "title": "Distributed Systems",
+        "description": "CAP theorem, eventual consistency, saga patterns, distributed transactions"
+      },
+      {
+        "title": "Event-Driven Architecture",
+        "description": "Event sourcing, CQRS, message-driven systems, async processing"
+      },
+      {
+        "title": "System Design",
+        "description": "Scalability, high availability, fault tolerance, performance optimization"
+      },
+      {
+        "title": "API Design",
+        "description": "RESTful APIs, API versioning, idempotency, error handling"
+      },
+      {
+        "title": "Database Design",
+        "description": "Schema design, indexing, query optimization, sharding strategies"
+      }
+    ]
+  },
+  "tools": {
+    "title": "🛠️ Tools & Practices",
+    "items": [
+      {
+        "title": "Version Control",
+        "points": [
+          "Git, GitHub, GitLab",
+          "Branching strategies",
+          "Code review practices"
+        ]
+      },
+      {
+        "title": "Testing",
+        "points": [
+          "JUnit, Mockito",
+          "Integration testing",
+          "Test-driven development"
+        ]
+      },
+      {
+        "title": "Monitoring & Observability",
+        "points": [
+          "CloudWatch, DataDog",
+          "Logging & tracing",
+          "Metrics & alerting"
+        ]
+      },
+      {
+        "title": "Development Practices",
+        "points": [
+          "Agile/Scrum",
+          "Clean code principles",
+          "Design patterns"
+        ]
+      }
+    ]
+  }
+}

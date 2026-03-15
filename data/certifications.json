@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Certifications & Recognition",
+    "subtitle": "Professional credentials and achievements"
+  },
+  "certificationsTitle": "🏅 Professional Certifications",
+  "certifications": [
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "verifiedLabel": "✓ Verified",
+      "year": "2024",
+      "description": "Foundational understanding of AWS Cloud services, architecture, security, and pricing. Demonstrates knowledge of cloud computing concepts and AWS infrastructure for building scalable and reliable cloud solutions.",
+      "skills": [
+        "AWS Services",
+        "Cloud Architecture",
+        "Cloud Security",
+        "Cost Optimization"
+      ],
+      "image": "https://res.cloudinary.com/dsrkqlk0v/image/upload/v1769955115/IMG_2856_sljvae.png",
+      "credentialUrl": "https://www.credly.com/badges/dc76d791-8003-4bef-b8b0-d8bb9b824e85/linked_in_profile"
+    }
+  ],
+  "awardsTitle": "🏆 Professional Recognition & Awards",
+  "awards": [
+    {
+      "icon": "🌟",
+      "title": "Spot Awards",
+      "company": "Deloitte USI",
+      "description": "Received multiple Spot Awards for exceptional delivery, technical excellence, and going above and beyond in critical project milestones.",
+      "badge": "Multiple recognitions"
+    },
+    {
+      "icon": "👏",
+      "title": "Applause Awards",
+      "company": "Deloitte USI",
+      "description": "Recognized with Applause Awards for outstanding contributions to team success, problem-solving abilities, and consistent high-quality deliverables.",
+      "badge": "Team Excellence"
+    },
+    {
+      "icon": "🚀",
+      "title": "Technical Leadership",
+      "company": "Across Organizations",
+      "description": "Consistently recognized for technical leadership, system design expertise, and mentoring junior engineers throughout 12+ years of professional experience.",
+      "badge": "Leadership"
+    }
+  ],
+  "learning": {
+    "title": "📚 Continuous Learning",
+    "intro": "Committed to staying current with industry trends, best practices, and emerging technologies in distributed systems, cloud computing, and backend engineering.",
+    "focusTitle": "Current Focus Areas:",
+    "items": [
+      "Advanced AWS services and architecture patterns",
+      "Event-driven architecture and stream processing",
+      "System design and scalability patterns",
+      "Microservices resilience and observability",
+      "Cloud-native development practices"
+    ]
+  }
+}

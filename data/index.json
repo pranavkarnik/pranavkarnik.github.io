@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "role": "Senior Backend Engineer",
+    "tagline": "Building scalable backend platforms and distributed systems with strong ownership across architecture, performance, and production reliability",
+    "location": "📍 Pune, India · Open to India on-site roles and remote opportunities"
+  },
+  "about": {
+    "title": "About Me",
+    "lead": "I am a Senior Backend Engineer with 12+ years of experience designing, building, and operating scalable backend platforms and distributed systems across enterprise and product engineering environments.",
+    "body": "My core strength is building production-grade microservices and transaction-critical backend services using Node.js, Java Spring Boot, Python, and Go, with a strong focus on cloud-native delivery, observability, and long-term production stability."
+  },
+  "builds": {
+    "title": "What I Build",
+    "items": [
+      {
+        "icon": "⚡",
+        "title": "Backend Platforms",
+        "description": "Production-grade microservices and APIs for high-throughput enterprise workflows"
+      },
+      {
+        "icon": "🔄",
+        "title": "Event-Driven Architecture",
+        "description": "Kafka-backed distributed systems for asynchronous communication and scale"
+      },
+      {
+        "icon": "🛡️",
+        "title": "Reliable Services",
+        "description": "Backend systems designed for concurrency, fault tolerance, and stable operations"
+      },
+      {
+        "icon": "☁️",
+        "title": "Cloud-Native Services",
+        "description": "AWS-based services with observability, containerized deployment, and production monitoring"
+      }
+    ]
+  },
+  "philosophy": {
+    "title": "Engineering Philosophy",
+    "items": [
+      "Prefer scalable, debuggable systems over unnecessary complexity",
+      "Design backend services for failure, concurrency, and graceful recovery",
+      "Use clear service boundaries and event-driven patterns to reduce coupling",
+      "Treat observability, performance, and operability as core design concerns",
+      "Own systems end-to-end from architecture review to production support"
+    ]
+  },
+  "currentFocus": {
+    "title": "Current Focus",
+    "company": "Deloitte USI — Senior Backend Engineer",
+    "time": "2022 – Present",
+    "achievements": [
+      "Designing enterprise-scale backend systems and distributed microservices for high-volume workflows",
+      "Building microservices using Node.js and Java Spring Boot for scalable backend platforms and APIs",
+      "Implementing Kafka-based event-driven services across distributed environments",
+      "Deploying cloud-native backend services on AWS with Lambda, ECS, and API Gateway",
+      "Reducing AWS Lambda layer size by around 55% to improve cold-start and runtime efficiency",
+      "Strengthening production observability using CloudWatch and Datadog"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "global": {
+    "name": "Pranav Nitin Karnik",
+    "role": "Senior Backend Engineer",
+    "email": "pranavkarnik6@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/pranavkarnik/",
+    "location": "Pune, India",
+    "nav": [
+      {
+        "key": "index",
+        "label": "Home",
+        "path": "index.html"
+      },
+      {
+        "key": "experience",
+        "label": "Work Experience",
+        "path": "pages/experience.html"
+      },
+      {
+        "key": "certifications",
+        "label": "Certifications",
+        "path": "pages/certifications.html"
+      },
+      {
+        "key": "languages",
+        "label": "Languages & Skills",
+        "path": "pages/languages.html"
+      },
+      {
+        "key": "opportunities",
+        "label": "Opportunities",
+        "path": "pages/opportunities.html"
+      }
+    ],
+    "footer": {
+      "copyright": "© 2026 Pranav Karnik · Senior Backend Engineer",
+      "subtitle": "Building reliable systems at scale"
+    },
+    "profileImage": {
+      "src": "https://res.cloudinary.com/dsrkqlk0v/image/upload/v1769954906/IMG_8916_c2qybw.jpg",
+      "alt": "Pranav Karnik"
+    }
+  }
+}

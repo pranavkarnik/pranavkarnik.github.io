@@ -1,0 +1,185 @@
+{
+  "header": {
+    "title": "Work Experience",
+    "subtitle": "12+ years building scalable backend platforms and distributed systems"
+  },
+  "items": [
+    {
+      "company": "Deloitte Consulting",
+      "role": "Senior Consultant - Senior Backend Engineer",
+      "date": "Jun 2022 – Present",
+      "location": "Pune, India · Hybrid",
+      "heading": "Key Responsibilities & Achievements",
+      "achievements": [
+        {
+          "label": "Backend Platform Design",
+          "text": "Designed and implemented enterprise-scale backend systems and distributed microservices architectures supporting high-volume business workflows"
+        },
+        {
+          "label": "Microservices Delivery",
+          "text": "Built scalable backend platforms and enterprise APIs using Node.js and Java Spring Boot"
+        },
+        {
+          "label": "Event-Driven Systems",
+          "text": "Developed Kafka-integrated backend services enabling asynchronous communication across distributed systems"
+        },
+        {
+          "label": "Scalability and Reliability",
+          "text": "Designed services for concurrency, fault tolerance, and transaction-critical operations across distributed environments"
+        },
+        {
+          "label": "AWS Cloud-Native Deployments",
+          "text": "Implemented backend deployments on AWS using Lambda, ECS, and API Gateway"
+        },
+        {
+          "label": "Performance Optimization",
+          "text": "Reduced AWS Lambda layer size by around 55%, improving cold-start performance and runtime efficiency"
+        },
+        {
+          "label": "Observability",
+          "text": "Established monitoring and diagnostics using CloudWatch and Datadog for production systems"
+        },
+        {
+          "label": "Specialized Services",
+          "text": "Contributed to backend services built with Python FastAPI and Go for specialized workloads and high-performance API processing"
+        }
+      ],
+      "technologies": "Node.js, TypeScript, NestJS, Java Spring Boot, Python FastAPI, Go, Kafka, AWS Lambda, ECS, API Gateway, CloudWatch, Datadog, Distributed Systems"
+    },
+    {
+      "company": "Capgemini",
+      "role": "Senior Consultant - Backend and Mobile Engineer",
+      "date": "Oct 2021 – Jun 2022",
+      "location": "Pune Area · Remote",
+      "heading": "Key Responsibilities & Achievements",
+      "achievements": [
+        {
+          "label": "Backend Modernization",
+          "text": "Worked on enterprise backend modernization and microservices transformation initiatives"
+        },
+        {
+          "label": "Service Development",
+          "text": "Developed scalable backend services using Node.js and Java Spring Boot for distributed enterprise systems"
+        },
+        {
+          "label": "API Integrations",
+          "text": "Implemented RESTful APIs and backend service integrations supporting enterprise workflows"
+        },
+        {
+          "label": "Architecture Stability",
+          "text": "Improved backend architecture stability, increasing successful delivery rates from around 60% to 95% before production rollout"
+        },
+        {
+          "label": "Quality Improvements",
+          "text": "Reduced integration defects by around 40% through improved API design and error-handling practices"
+        }
+      ],
+      "technologies": "Node.js, Java Spring Boot, REST APIs, Microservices, Containerized Deployments, AWS"
+    },
+    {
+      "company": "Heckyl Technologies Pvt Ltd",
+      "role": "Software Analyst – Backend and Mobile Engineer",
+      "date": "Mar 2019 – Oct 2021",
+      "location": "India",
+      "heading": "Key Responsibilities & Achievements",
+      "achievements": [
+        {
+          "label": "Financial Data Platforms",
+          "text": "Developed backend systems supporting financial data platforms and multi-client services"
+        },
+        {
+          "label": "API Delivery",
+          "text": "Built backend APIs supporting multi-client platforms and concurrent application workloads"
+        },
+        {
+          "label": "Performance and Reliability",
+          "text": "Improved backend performance through data-access optimizations and service modularization"
+        },
+        {
+          "label": "Legacy Refactoring",
+          "text": "Refactored legacy backend components to support a more scalable service-based architecture"
+        },
+        {
+          "label": "Real-Time Integrations",
+          "text": "Implemented backend integrations supporting real-time financial data workflows"
+        }
+      ],
+      "technologies": "Node.js, Java, Backend APIs, Real-Time Integrations, Service Modularization"
+    },
+    {
+      "company": "Ascra Technologies",
+      "role": "Android Developer",
+      "date": "Jan 2016 – Mar 2019",
+      "location": "India",
+      "heading": "Key Responsibilities & Achievements",
+      "achievements": [
+        {
+          "label": "Enterprise Applications",
+          "text": "Worked on enterprise mobile applications with strong backend integrations"
+        },
+        {
+          "label": "Multi-Tenant Architecture",
+          "text": "Designed a multi-tenant application architecture supporting multiple client deployments from a shared platform"
+        },
+        {
+          "label": "Onboarding Efficiency",
+          "text": "Reduced new client onboarding time by more than 20% through reusable platform architecture"
+        },
+        {
+          "label": "Foundational Frameworks",
+          "text": "Established application frameworks reducing project setup time by more than 14%"
+        }
+      ],
+      "technologies": "Android, Java, Multi-Tenant Architecture, Backend Integrations"
+    },
+    {
+      "company": "GladMinds Technologies Pvt Ltd",
+      "role": "Software Engineer – Android Engineer",
+      "date": "Jul 2015 – Jan 2016",
+      "location": "India",
+      "heading": "Key Responsibilities & Achievements",
+      "achievements": [
+        {
+          "label": "Production Reliability",
+          "text": "Maintained and enhanced enterprise applications with a focus on stability and production reliability"
+        }
+      ],
+      "technologies": "Android, Java"
+    },
+    {
+      "company": "Alchetron Technologies Pvt Ltd",
+      "role": "Software Engineer – Backend and Android Engineer",
+      "date": "Jan 2014 – Jul 2015",
+      "location": "India",
+      "heading": "Key Responsibilities & Achievements",
+      "achievements": [
+        {
+          "label": "Product Delivery",
+          "text": "Developed Android applications end-to-end, including static asset creation, improving delivery speed and product consistency"
+        },
+        {
+          "label": "Full-Stack Development",
+          "text": "Built backend systems with Java and MySQL along with front-end interfaces using HTML, CSS, and JavaScript"
+        }
+      ],
+      "technologies": "Java, MySQL, Android, HTML, CSS, JavaScript"
+    }
+  ],
+  "timeline": {
+    "title": "Technical Expertise Timeline",
+    "items": [
+      {
+        "period": "2022 – Present",
+        "focus": "Node.js, TypeScript, NestJS, Java Spring Boot, Python FastAPI, Go, Kafka, AWS Lambda, ECS, API Gateway, Observability"
+      },
+      {
+        "period": "2019 – 2022",
+        "focus": "Backend APIs, financial data systems, service modularization, microservices transformation, API reliability"
+      },
+      {
+        "period": "2014 – 2019",
+        "focus": "Multi-tenant application design, backend integrations, Android engineering, Java and MySQL-based systems"
+      }
+    ]
+  }
+}
